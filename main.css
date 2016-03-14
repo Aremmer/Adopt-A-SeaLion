@@ -1,19 +1,10 @@
 body {
   background-size: contain;
-  /*width: 100%;
-  height: 100%;*/
+  width: 100%;
+  height: 100%;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/05/20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg");
 }
 
-.homeStatus {
-  height: 120px;
-  text-align: center;
-  padding-top: 20px;
-}
-
-.roundedPic {
-  border-radius: 229px;
-}
 
 .titleBoxes {
   background-color: rgba(49, 66, 125, 0.5);
